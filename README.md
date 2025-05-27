@@ -1,4 +1,4 @@
-# Air Quality Forecasting Using Advanced LSTM Ensemble Methodology
+# Beijing Air Quality Forecasting Using Advanced LSTM
 
 **Course**: Machine Learning Techniques I  
 **Assignment**: Time Series Forecasting  
